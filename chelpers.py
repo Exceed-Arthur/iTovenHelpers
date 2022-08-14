@@ -1,32 +1,30 @@
-import FbLiteral
-import C Literal
-import F Literal
-import PhrygianLiteral
-import FSharpLiteral
-import cHelperPortablizer
-import Harmonic MinorLiteral
-import Three FourLiteral
-import Four EightLiteral
-import ASharpLiteral
-import LocrianLiteral
-import Natural MinorLiteral
-import CSharpLiteral
-import A Literal
-import Five FourLiteral
-import Four TwoLiteral
-import DSharpLiteral
-import D Literal
-import DorianLiteral
-import Two FourLiteral
-import BbLiteral
-import G Literal
-import chelpers
-import Two TwoLiteral
-import GbLiteral
-import B Literal
-import E Literal
-import Four FourLiteral
-import Melodic MinorLiteral
-import Ab Literal
-import LydianLiteral
-import EbLiteral
+import AbLiteral as AFlat_
+import ALiteral as A__
+import ASharpLiteral as ASharp__
+import BbLiteral as BFlat__
+import BLiteral as B__
+import CLiteral as C__
+import CSharpLiteral as CSharp__
+import DLiteral as D__
+import DorianLiteral as Dorian__
+import DSharpLiteral as DSharp__
+import EbLiteral as EFlat__
+import ELiteral as E__
+import FbLiteral as FFlat__
+import FiveFourLiteral as FiveFour__
+import FLiteral as F__
+import FourEightLiteral as FourEight__
+import FourFourLiteral as FourFour__
+import FourTwoLiteral as FourTwo__
+import FSharpLiteral as FSharp__
+import GbLiteral as GFlat__
+import GLiteral as G__
+import HarmonicMinorLiteral as HarmonicMinor__
+import LocrianLiteral as Locrian__
+import LydianLiteral as Lydian__
+import MelodicMinorLiteral as MelodicMinor__
+import NaturalMinorLiteral as NaturalMinor__
+import PhrygianLiteral as Phrygian__
+import ThreeFourLiteral as ThreeFour__
+import TwoFourLiteral as TwoFour__
+import TwoTwoLiteral as TwoTwo__
